@@ -10,22 +10,5 @@
 	    <atom:link href="http://orbby.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title></title>
-      <link>http://orbby.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://orbby.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a PhD student at Shandong University, advised by Professor Qiuliang Xu.
-I am interested in theoretical and applied cryptography, including: &lt;br&gt;
-&lt;li&gt; Lattice-Based Cryptography &lt;/li&gt;
-&lt;li&gt; Privacy-Preserving Protocols &lt;/li&gt;
-&lt;li&gt; Cryptographic Watermarking &lt;/li&gt;
-&lt;li&gt; Cryptography under Physical Attacks &lt;/li&gt;
-&lt;li&gt; Foundation of Cryptography &lt;/li&gt;
-&lt;b&gt;I am graduating in December and I am currently on the job market.&lt;/b&gt;&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
